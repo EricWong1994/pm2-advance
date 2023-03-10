@@ -1,0 +1,23 @@
+{
+  "name": "pm2-advance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricWong1994/pm2-advance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricWong1994/pm2-advance/issues"
+  },
+  "homepage": "https://github.com/EricWong1994/pm2-advance#readme",
+  "dependencies": {
+    "koa": "^2.14.1"
+  }
+}
